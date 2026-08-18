@@ -1,0 +1,7 @@
+slug: registry-hive
+title: Registry Hive
+category: forensics
+difficulty: medium
+points: 250
+codec: xorb64
+repo_url: https://github.com/sparflag/registry-hive
